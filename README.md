@@ -36,8 +36,8 @@ context in every notification.
 | Document | Status |
 |---|---|
 | Concept Note | ✅ Complete |
-| PRD v2 | ✅ Complete |
-| Market Analysis | ✅ Complete |
+| Market Analysis & Research | ✅ Complete |
+| P.R.D. | ✅ Complete |
 | User Journey Map | 🔄 In progress |
 | Figma Prototype | 🔄 Building |
 | Presentation Deck | ⬜ Planned |
